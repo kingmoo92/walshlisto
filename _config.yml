@@ -26,7 +26,7 @@ store:
     usage: false
   kinds:
     # Whether or not the kind list will display karma type overrides.
-    karma: true
+    karma: false
     # Whether or not the kind list will display the command a viewer should type for purchasing that kind.
     usage: false
   items:
