@@ -6,8 +6,8 @@ description: >-
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+twitter_username: 'KingMoo92'
+github_username: 'KingMoo92'
 
 # Item list settings
 store:
@@ -17,7 +17,7 @@ store:
     # Whether or not the trait list will display trait stats.
     stats: true
     # Whether or not the trait list will display karma type overrides.
-    karma: true
+    karma: false
     # Whether or not the trait list will display whether or not a trait bypasses the trait limit.
     limit: true
     # Whether or not the trait list will display trait descriptions.
@@ -33,7 +33,7 @@ store:
     # Whether or not the item list will display an item's in-game category.
     category: true
     # Whether or not the item list will display an item's purchase weight.
-    weight: false
+    weight: true
     # Whether or not the item list will display an item's karma type override.
     karma: false
     # Whether or not the item list will display an item's quantity limit.
