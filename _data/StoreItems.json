@@ -15409,7 +15409,7 @@
 		"defname": "Turret_SKC34_Navalgun"
 	},
 	{
-		"abr": "5/54(12.7cm)mark16,		price: 7667,		category: ,		defname: Turret_Mark16_Navalgun	},	{		abr: otobreda127/54compact,		price: 10417,		category: ,		defname: Turret_Otobreda127_Navalgun	},	{		abr: 100mmmodele53,		price: 13033,		category: ,		defname: 100mmNavalgun	},	{		abr: 120mm/46(4.7)tak120",
+		"abr": "5/54(12.7cm)mark16,
 		"price": 15675,
 		"category": "",
 		"defname": "120mmNavalgun"
